@@ -1,15 +1,29 @@
-C:\Users\lucas.mendes\Documents\LucasEmanuel\ProjetosC#\Calculator\bin\Debug\net7.0\Calculator.exe
-C:\Users\lucas.mendes\Documents\LucasEmanuel\ProjetosC#\Calculator\bin\Debug\net7.0\Calculator.deps.json
-C:\Users\lucas.mendes\Documents\LucasEmanuel\ProjetosC#\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
-C:\Users\lucas.mendes\Documents\LucasEmanuel\ProjetosC#\Calculator\bin\Debug\net7.0\Calculator.dll
-C:\Users\lucas.mendes\Documents\LucasEmanuel\ProjetosC#\Calculator\bin\Debug\net7.0\Calculator.pdb
-C:\Users\lucas.mendes\Documents\LucasEmanuel\ProjetosC#\Calculator\obj\Debug\net7.0\Calculator.csproj.AssemblyReference.cache
-C:\Users\lucas.mendes\Documents\LucasEmanuel\ProjetosC#\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\lucas.mendes\Documents\LucasEmanuel\ProjetosC#\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
-C:\Users\lucas.mendes\Documents\LucasEmanuel\ProjetosC#\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
-C:\Users\lucas.mendes\Documents\LucasEmanuel\ProjetosC#\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
-C:\Users\lucas.mendes\Documents\LucasEmanuel\ProjetosC#\Calculator\obj\Debug\net7.0\Calculator.dll
-C:\Users\lucas.mendes\Documents\LucasEmanuel\ProjetosC#\Calculator\obj\Debug\net7.0\refint\Calculator.dll
-C:\Users\lucas.mendes\Documents\LucasEmanuel\ProjetosC#\Calculator\obj\Debug\net7.0\Calculator.pdb
-C:\Users\lucas.mendes\Documents\LucasEmanuel\ProjetosC#\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
-C:\Users\lucas.mendes\Documents\LucasEmanuel\ProjetosC#\Calculator\obj\Debug\net7.0\ref\Calculator.dll
+C:/Users/lucas.mendes/Documents/LucasEmanuel/ProjetosC#/Calculator/bin/Debug/net7.0/Calculator.exe
+C:/Users/lucas.mendes/Documents/LucasEmanuel/ProjetosC#/Calculator/bin/Debug/net7.0/Calculator.deps.json
+C:/Users/lucas.mendes/Documents/LucasEmanuel/ProjetosC#/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+C:/Users/lucas.mendes/Documents/LucasEmanuel/ProjetosC#/Calculator/bin/Debug/net7.0/Calculator.dll
+C:/Users/lucas.mendes/Documents/LucasEmanuel/ProjetosC#/Calculator/bin/Debug/net7.0/Calculator.pdb
+C:/Users/lucas.mendes/Documents/LucasEmanuel/ProjetosC#/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+C:/Users/lucas.mendes/Documents/LucasEmanuel/ProjetosC#/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/lucas.mendes/Documents/LucasEmanuel/ProjetosC#/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+C:/Users/lucas.mendes/Documents/LucasEmanuel/ProjetosC#/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+C:/Users/lucas.mendes/Documents/LucasEmanuel/ProjetosC#/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+C:/Users/lucas.mendes/Documents/LucasEmanuel/ProjetosC#/Calculator/obj/Debug/net7.0/Calculator.dll
+C:/Users/lucas.mendes/Documents/LucasEmanuel/ProjetosC#/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+C:/Users/lucas.mendes/Documents/LucasEmanuel/ProjetosC#/Calculator/obj/Debug/net7.0/Calculator.pdb
+C:/Users/lucas.mendes/Documents/LucasEmanuel/ProjetosC#/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+C:/Users/lucas.mendes/Documents/LucasEmanuel/ProjetosC#/Calculator/obj/Debug/net7.0/ref/Calculator.dll
+/home/lucas/Documentos/Projetos CSharp/Calculator/bin/Debug/net7.0/Calculator
+/home/lucas/Documentos/Projetos CSharp/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/home/lucas/Documentos/Projetos CSharp/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/home/lucas/Documentos/Projetos CSharp/Calculator/bin/Debug/net7.0/Calculator.dll
+/home/lucas/Documentos/Projetos CSharp/Calculator/bin/Debug/net7.0/Calculator.pdb
+/home/lucas/Documentos/Projetos CSharp/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/Projetos CSharp/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/home/lucas/Documentos/Projetos CSharp/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/home/lucas/Documentos/Projetos CSharp/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/Projetos CSharp/Calculator/obj/Debug/net7.0/Calculator.dll
+/home/lucas/Documentos/Projetos CSharp/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/home/lucas/Documentos/Projetos CSharp/Calculator/obj/Debug/net7.0/Calculator.pdb
+/home/lucas/Documentos/Projetos CSharp/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/home/lucas/Documentos/Projetos CSharp/Calculator/obj/Debug/net7.0/ref/Calculator.dll
